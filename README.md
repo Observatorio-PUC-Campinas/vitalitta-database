@@ -1,1 +1,0 @@
-# vitalitta-database
